@@ -1,0 +1,2 @@
+# Quote-Generator
+Positive Thoughts
